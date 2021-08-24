@@ -13,7 +13,6 @@
 
 ``` npm run build```   
 
-\
 (This will create a dist folder)
 
 4. Log into firebase in your console 
