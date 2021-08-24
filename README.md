@@ -14,7 +14,9 @@ How to Deploy VueJS using Firebase
 
 (This will create a dist folder)
 
-3. 
+3. Log into firebase in your console 
+```firebase login```
+This will prompt you to login via browser.
 
 
 
