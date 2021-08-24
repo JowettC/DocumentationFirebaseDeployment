@@ -1,5 +1,5 @@
 # DocumentationFirebaseDeployment
-How to Deploy VueJS using Firebase
+**How to Deploy VueJS using Firebase**
 1. Create a project in firebase Console
 
 ![image](https://user-images.githubusercontent.com/57623021/130702745-68489be7-07f1-457d-89d9-247c31860051.png)
@@ -27,8 +27,8 @@ This will prompt you to login via browser.
 
 ``` firebase init```   
 \
-\
-Firebase offer a few services, we'll only be using hosting.
+
+**Firebase offer a few services, we'll only be using hosting.**
 \
 a. Pick a firebase project (will prompt you only on the first time)
 \
