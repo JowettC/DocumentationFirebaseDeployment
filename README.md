@@ -8,7 +8,7 @@ How to Deploy VueJS using Firebase
 
 ```npm install -g firebase-tools```   
 
-
+\
 3. Go to your project directory and create a production build of your web app
 
 ``` npm run build```   
