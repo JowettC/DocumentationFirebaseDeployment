@@ -1,4 +1,4 @@
-# DocumentationFirebaseDeployment
+# Documentation Firebase Deployment
 **How to Deploy VueJS using Firebase**
 1. Create a project in firebase Console
 
