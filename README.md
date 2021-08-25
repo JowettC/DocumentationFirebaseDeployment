@@ -57,5 +57,6 @@ f. Do not overwrite existing index.html!
 
 Even if you do, you can just run ```npm run build``` again   
 
+## extra resources
 
 https://firebase.google.com/pricing - by Po Qi Lin
