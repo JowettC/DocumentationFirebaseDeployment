@@ -8,7 +8,7 @@
 
 ```npm install -g firebase-tools```   
 
-\
+
 3. Go to your project directory and create a production build of your web app
 
 ``` npm run build```   
@@ -18,14 +18,14 @@
 4. Log into firebase in your console 
 
 ```firebase login```   
-\
+
 
 This will prompt you to login via browser.
 
 5. Set up configurations
 
 ``` firebase init```   
-\
+
 
 **Firebase offer a few services, we'll only be using hosting.**
 \
