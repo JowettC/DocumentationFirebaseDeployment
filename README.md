@@ -57,6 +57,9 @@ f. Do not overwrite existing index.html!
 
 Even if you do, you can just run ```npm run build``` again   
 
+6. Deploy app
+```firebase deploy```
+
 ## Extra Resources
 
 https://firebase.google.com/pricing - by Po Qi Lin
